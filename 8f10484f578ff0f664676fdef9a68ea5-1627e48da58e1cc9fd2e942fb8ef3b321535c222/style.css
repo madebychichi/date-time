@@ -1,0 +1,28 @@
+body {
+  background: #ffffff;
+}
+
+.datetime {
+  font-size: 16px;
+  padding: 24px;
+  color: #000000;
+  background: #ffffff;
+  box-shadow: 12px 12px 0px #000000;
+  border-radius: 15px;
+  border: 5px #000000 solid;
+  width: 330px;
+  font-family: "Inter", sans-serif;
+}
+
+.time {
+  font-size: 2.4em;
+  color: #000000;
+  font-weight: 700;
+}
+
+.date {
+  margin-top: 8px;
+  margin-bottom: 4px;
+  font-size: 1.3em;
+  font-weight: 500;
+}
